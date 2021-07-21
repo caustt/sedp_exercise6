@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/script-embedding-python.dir/main.cpp.o -o script-embedding-python 
